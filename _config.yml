@@ -28,7 +28,7 @@ twitter_username: anhsterr
 github_username:  zachnguyen03
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
